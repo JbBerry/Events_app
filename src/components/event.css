@@ -1,0 +1,15 @@
+#event-cards {
+  margin: 20px;
+}
+
+#padding {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.events-list {
+  display: flex;
+  flex-wrap: wrap;
+}
