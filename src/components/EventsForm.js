@@ -1,7 +1,7 @@
 import React, { Component } from 'react'
 
 class EventsForm extends Component {
-  constructor() {
+  constructor(props) {
 
   }
 }
